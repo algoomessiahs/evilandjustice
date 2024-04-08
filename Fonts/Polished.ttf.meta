@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cfc1a6e1e34eece4085b9f0c3f846025
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Polished
+  fontNames:
+  - Polished
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 25f063dca6ada5d4f87b405e23881ec0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
